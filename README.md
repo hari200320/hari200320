@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently a Student!
-- 🌱 I’m currently learning DSA, Web-Technologies and Blockchain
+- 🌱 I’m currently learning DSA and Web-Technologies 
 - 👯 I’m looking to collaborate on Full Stack development
 - 📫 How to reach me: www.linkedin.com/in/hariharan-radhakrishnan-2663a322a
 - 😄 Pronouns: He/Him
