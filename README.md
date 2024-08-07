@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
 <h3 align="center">A passionate full-stack developer and a Data Handling enthusiast from India</h3>
 
-- 🔭 I’m currently working on : **Projects based on Data Handling and Data Visualization using Power BI and Python libraries**
+- 🔭 I’m currently working on : **Projects on Data Handling and Data Visualization using Power BI and Python libraries**
 
 - 🧠 I’m currently learning **DSA, Django, Python Libraries, Power BI**
 
