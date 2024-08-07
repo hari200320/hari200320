@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on : **Projects on Data Handling and Data Visualization using Power BI and Python libraries**
 
-- 🧠 I’m currently learning **DSA, Django, Python Libraries, Power BI**
+- 🧠 I’m currently learning : **DSA, Django, Python Libraries, Power BI**
 
 - 💻 Tech Enthusiast : **Passionate about creating impactful Full Stack projects.**
 
-- 🤝 Collaboration Ready **Always open to teaming up on Tech-Projects.**
+- 🤝 Collaboration Ready : **Always open to teaming up on Tech-Projects.**
 
-- 🌟 Pronouns: **HE/HIM**
+- 🌟 Pronouns : **HE/HIM**
 
-- 📫 Let’s Connect: **www.linkedin.com/in/hariharan-radhakrishnan-2663a322a**
+- 📫 Let’s Connect : **www.linkedin.com/in/hariharan-radhakrishnan-2663a322a**
 
-- ⚡ Fun fact: You can code programs using just whitespaces
+- ⚡ Fun fact : **You can code programs using just whitespaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
