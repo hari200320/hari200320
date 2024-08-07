@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
 <h3 align="center">A passionate full-stack developer and a Data Handling enthusiast from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hari200320&label=Profile%20views&color=0e75b6&style=flat" alt="hari200320" />
-  <img src="https://img.shields.io/github/followers/hari200320?label=Followers&style=social" alt="followers" />
-</p>
-
-- 🔭 I’m currently working on : **Data Structures, Data Handling and Web Development**
+- 🔭 I’m currently working on : **Projects based on Data Handling and Data Visualization using Power BI and Python libraries**
 
 - 🧠 I’m currently learning **DSA, Django, Python Libraries, Power BI**
 
