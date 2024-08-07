@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
-<h3 align="center">A passionate full-stack developer and a Data Handliny enthusiast from India</h3>
+<h3 align="center">A passionate full-stack developer and a Data Handling enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari200320&label=Profile%20views&color=0e75b6&style=flat" alt="hari200320" /> </p>
 
 - 🔭 I’m currently working on : **Data Structures, Data Handling and Web Development**
 
-- 🌱 I’m currently learning **Django, Python Libraries, Power BI**
+- 🧠 I’m currently learning **DSA, Django, Python Libraries, Power BI**
 
 - 💻 Tech Enthusiast : **Passionate about creating impactful Full Stack projects.**
 
-- 🤝🌐 Collaboration Ready **Always open to teaming up on Tech-Projects.**
-
-- ⚡ Fun fact [You can code programs using just whitespaces!](You can code programs using just whitespaces!)
+- 🤝 Collaboration Ready **Always open to teaming up on Tech-Projects.**
 
 - 🌟 Pronouns: **HE/HIM**
 
 - 📫 Let’s Connect: **www.linkedin.com/in/hariharan-radhakrishnan-2663a322a**
 
+- ⚡ Fun fact: You can code programs using just whitespaces
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hariharan-radhakrishnan-2663a322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hariharan-radhakrishnan-2663a322a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hariharan-radhakrishnan-2663a322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hariharan-radhakrishnan-2663a322a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
