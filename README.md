@@ -1,6 +1,6 @@
 
 
-Hi there! 👋
+Hi There!! 👋
 
 
 🎓 Student on a Mission: I'm diving deep into Data Structures, Algorithms, Data Handling and Web Technologies.
