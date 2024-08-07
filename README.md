@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/github/followers/hari200320?label=Followers&style=social" alt="followers" />
 </p>
 
-- 🔭 I’m currently working on : **Data Handling and Analysis using Power BI and learning various Data Visualization Libraries in Python**
+- 🔭 I’m currently working on : **Data Handling and Analysis using Power BI and learning various Data Visualization Libraries in 
+                                   Python**
 
 - 🧠 I’m currently learning **DSA, Django, Python Libraries, Power BI**
 
