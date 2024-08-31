@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
 <h3 align="center">A passionate full-stack developer and a Data Handling enthusiast from India</h3>
+<h3 align="center">
+    <a href="https://your-portfolio-link.com" target="_blank">Visit My Portfolio</a>
+</h3>
+
+
 
 - 🔭 I’m currently working on : **Projects on Data Handling and Data Visualization using Power BI and Python libraries**
 
