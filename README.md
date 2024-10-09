@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on : **Projects on Data Handling and Data Visualization using Power BI and Python libraries**
+- 🔭 I’m currently working on : **Projects on Containerized Python APIs**
 
-- 🧠 I’m currently learning : **DSA, Django, Python Libraries, Power BI**
+- 🧠 I’m currently learning : **Docker, Django, Flask, Python Libraries, MongoDB**
 
 - 💻 Tech Enthusiast : **Passionate about creating impactful Full Stack projects.**
 
