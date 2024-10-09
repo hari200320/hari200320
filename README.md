@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on : **Projects on Containerized Python APIs**
+- 🔭 I’m currently working on : **Projects on Containerized Python APIs(Flask, Redis, MongoDB, Docker)**
 
 - 🧠 I’m currently learning : **Docker, Django, Flask, Python Libraries, MongoDB**
 
