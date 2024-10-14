@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
-<h3 align="center">A passionate full-stack developer and a Data Handling enthusiast from India</h3>
+<h3 align="center">A PHILOMATH</h3>
 <h3 align="center">
     <a href="https://harihport.netlify.app" target="_blank">Visit My Portfolio</a>
 </h3>
