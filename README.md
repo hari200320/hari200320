@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on : **Chatbots and Voicebots development**
+- 🔭 I’m currently working on : **Chatbots and Voicebots development.**
 
 - 🧠 I’m currently learning : **Docker, Django, Flask, Python Libraries, MongoDB**
 
@@ -18,7 +18,7 @@
 
 - 📫 Let’s Connect : **www.linkedin.com/in/hariharan-radhakrishnan-2663a322a**
 
-- ⚡ Fun fact : **You can code programs using just whitespaces**
+- ⚡ Fun fact : **You can code programs using just whitespaces...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
