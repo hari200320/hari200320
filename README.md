@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on : **Chatbots and Voicebots development....**
 
-- 🧠 I’m currently learning : **Docker, Django, Flask, Python Libraries, MongoDB**
+- 🧠 I’m currently learning : **Docker, Django, Flask, Python Libraries, MongoDB ....**
 
 - 💻 Tech Enthusiast : **Passionate about creating impactful Full Stack projects.**
 
