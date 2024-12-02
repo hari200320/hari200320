@@ -84,3 +84,8 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hari200320&show_icons=true&locale=en&count_private=true" alt="hari200320" />
 </p>
+
+<h3 align="left">GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hari200320&theme=onedark&no-frame=true&margin-w=15" alt="github trophies" />
+</p>
