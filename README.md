@@ -4,8 +4,6 @@
     <a href="https://harihport.netlify.app" target="_blank">Visit My Portfolio</a>
 </h3>
 
-
-
 - 🔭 I’m currently working on : **Chatbots and Voicebots development....**
 
 - 🧠 I’m currently learning : **Docker, Flask, Python Libraries, Natural Language Processing, LLMs ....**
@@ -76,4 +74,13 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari200320&show_icons=true&locale=en&layout=compact" alt="hari200320" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari200320&show_icons=true&locale=en&layout=compact" alt="hari200320" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari200320&" alt="hari200320" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hari200320&show_icons=true&locale=en&count_private=true" alt="hari200320" />
+</p>
